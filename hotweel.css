@@ -1,0 +1,52 @@
+body {
+    display:flex;
+    justify-content: center;
+}
+.contenedor{
+    width: 90%;
+}
+
+.row {
+    display: flex;
+    justify-content: center;    
+    width: 100%;
+}
+
+.col {
+    width: fit-content;
+}
+.col-md-auto {
+    width: fit-content ;
+}       
+
+.box{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}       
+
+.titulo {
+    color: darkblue;
+}
+
+.state {
+    padding-top: 4%;
+    text-align: right;
+    font-size: 90%;    
+    color: darkblue;
+}
+
+.navbar-brand {
+    padding-top: 0px;
+    padding-bottom: 0px;    
+}
+
+.img_cambio {
+    display: flex;
+    justify-content: center;
+}
+
+.correos {
+    display: flex;
+    justify-content: left;
+}

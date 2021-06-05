@@ -1,0 +1,25 @@
+body {
+    display:flex;
+    justify-content: center;
+}
+.contenedor{
+    width: 90%;
+}
+
+.titulo {
+    display: inline;
+    justify-content: left;
+    color: darkblue;
+}
+
+.state {
+    display: inline;
+    font-size: 40%;
+    color: darkblue;   
+    padding-left: 160%;
+}
+
+.navbar-brand {
+    padding-top: 0px;
+    padding-bottom: 0px;    
+}
